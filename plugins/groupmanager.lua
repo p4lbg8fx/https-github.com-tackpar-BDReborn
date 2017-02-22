@@ -3490,7 +3490,7 @@ _Its Means, Only Group_ *Moderators/Owners* _Can Use It!_
 elseif lang then
 
 text = [[
-*دستورات ربات بیوند:*
+*دستورات ربات ماسال:*
 
 *!setowner* `[username|id|reply]` 
 _انتخاب مالک گروه(قابل انتخاب چند مالک)_
@@ -3707,7 +3707,7 @@ _نمایش لیست مالکان گروه_
 تنظیم زبان [فارسی|انگلیسی]
 _تنظیم زبان ربات_
 
-_موفق باشید :)_
+_نویسنده eblis anonymous :)_
 ]]
 return text
 end
