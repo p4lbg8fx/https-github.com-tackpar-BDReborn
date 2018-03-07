@@ -1,4 +1,4 @@
-# [BDReborn](https://telegram.me/BDReborn)
+# [TG_00TG](https://telegram.me/BDReborn)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
